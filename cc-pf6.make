@@ -6,6 +6,7 @@ api = 2
 projects[drupal][type] = "core"
 projects[drupal][download][url] = "git://github.com/pressflow/6.git"
 projects[drupal][download][type] = "git"
+projects[drupal][patch][] = "https://raw.githubusercontent.com/DrupalOps/drush-make-patchfiles/6.x/remove-robotstxt.patch"
 
 ; LIBRARIES
 libraries[jquery_ui][directory_name] = "jquery.ui"
