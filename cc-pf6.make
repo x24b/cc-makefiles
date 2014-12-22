@@ -20,6 +20,6 @@ libraries[tinymce][download][url] = "https://github.com/downloads/tinymce/tinymc
 ; INSTALLATION PROFILES
 projects[cc6x][type] = "profile"
 projects[cc6x][download][type] = "git"
-projects[cc6x][download][url] = "ssh://git@git.condurre.com/cc6x.git"
+projects[cc6x][download][url] = "git@github.com:condurremedia/cc_profile.git"
 projects[cc6x][download][branch] = "6.x-1.x"
 
