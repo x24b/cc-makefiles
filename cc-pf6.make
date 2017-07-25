@@ -2,10 +2,7 @@
 core = 6.x
 api = 2
 
-; CORE Pressflow 6
-projects[drupal][type] = "core"
-projects[drupal][download][url] = "git://github.com/pressflow/6.git"
-projects[drupal][download][type] = "git"
+
 
 ; LIBRARIES
 libraries[jquery_ui][directory_name] = "jquery.ui"
