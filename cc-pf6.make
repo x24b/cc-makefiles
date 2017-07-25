@@ -16,9 +16,5 @@ libraries[tinymce][directory_name] = "tinymce"
 libraries[tinymce][download][type] = "get"
 libraries[tinymce][download][url] = "https://github.com/downloads/tinymce/tinymce/tinymce_3.5b3_jquery.zip"
 
-; INSTALLATION PROFILES
-projects[cc6x][type] = "profile"
-projects[cc6x][download][type] = "git"
-projects[cc6x][download][url] = "git@github.com:condurremedia/cc_profile.git"
-projects[cc6x][download][branch] = "6.x-1.x"
+
 
