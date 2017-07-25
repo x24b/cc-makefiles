@@ -21,4 +21,3 @@ projects[cc6x][type] = "profile"
 projects[cc6x][download][type] = "git"
 projects[cc6x][download][url] = "git@github.com:condurremedia/cc_profile.git"
 projects[cc6x][download][branch] = "6.x-1.x"
-
